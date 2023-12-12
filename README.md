@@ -26,3 +26,7 @@ https://github.com/kaushik8946/Shopping-App/assets/109019850/7d67f3d6-4eb4-4f15-
 - Java Development Kit (JDK) Version - JDK 19
 - Kotlin Version - 1.9.0
  
+# Concepts used
+- Jetpack Compose Navigation
+- Firebase Authentication : Google Sign-In
+- Firebase Realtime Database
