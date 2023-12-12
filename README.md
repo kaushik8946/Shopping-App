@@ -1,5 +1,6 @@
 <h1 align="center" id="title">Shopping App</h1>
-<p id="description">This app is your new pocket assistant, offering effortless Google login, real-time cart management, order tracking, a clean UI, and instant access to your personal information. Built with cutting-edge technology, it's designed for a smooth and enjoyable shopping experience.</p>
+<p id="description"><b>Easy Shopping in Your Pocket:</b> An Android App for Everyday Needs
+This Android app makes your shopping experience simple and convenient. Explore a wide range of products through intuitive browsing, add items to your cart with ease, and complete your purchase with secure online payment. Simply enter your delivery address and let the app take care of the rest, leaving you free to focus on more important things.</p>
 
 https://github.com/kaushik8946/Shopping-App/assets/109019850/7d67f3d6-4eb4-4f15-8bc3-80b08c406509
 
