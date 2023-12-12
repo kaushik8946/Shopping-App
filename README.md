@@ -18,6 +18,7 @@ https://github.com/kaushik8946/Shopping-App/assets/109019850/7d67f3d6-4eb4-4f15-
 - Android SDK
 
 # Requirements
+- Android Studio Iguana | 2023.2.1 Canary 17
 - Android 10 (API level 29) or above
 - Gradle Version - 8.4
 - Android Gradle Plugin Version - 8.3.0-alpha17
