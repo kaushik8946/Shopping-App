@@ -1,5 +1,5 @@
 <h1 align="center" id="title">Shopping App</h1>
-<p id="description">Shop with ease and confidence! Secure Google login real-time cart &amp; order tracking stunning UI access your info instantly. Built with Kotlin Jetpack Compose &amp; Firebase.</p>
+<p id="description">This app is your new pocket assistant, offering effortless Google login, real-time cart management, order tracking, a stunning UI, and instant access to your personal information. Built with cutting-edge technology, it's designed for a smooth and enjoyable shopping experience.</p>
 
 https://github.com/kaushik8946/Shopping-App/assets/109019850/7d67f3d6-4eb4-4f15-8bc3-80b08c406509
 
